@@ -215,6 +215,12 @@ PyTorch
 
 <br><br>
 
+<b>Dataset</b><br>
+
+<a href="https://www.kaggle.com/datasets/icebearogo/fruit-classification-dataset" target="_blank">
+📂 Fruit Classification (Kaggle)
+</a>
+
 <b>Classes</b><br>
 
 100 Fruits
